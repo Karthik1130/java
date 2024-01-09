@@ -9,6 +9,6 @@ public class ReverseKeyword {
         System.out.print("Palindrome");
         else
         System.out.print("Not Palindrome");
-        sc.close();
+         sc.close();
     }
 }
