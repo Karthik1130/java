@@ -1,6 +1,3 @@
-/**
- * MethodOverriding
- */
 class Student {
     public void display(){
         System.out.println("I'm a Student");
