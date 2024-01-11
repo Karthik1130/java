@@ -18,5 +18,6 @@ public class Files5b {
         catch(IOException e){
             System.err.println("An error Occurred while reading the message: "+e.getMessage());
         }
+    sc.close();
     }
 }
