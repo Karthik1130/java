@@ -13,7 +13,8 @@ public void init()
 { 
 e=this;
 t1=new TextField(5); 
-t2=new TextField(5); t3=new TextField(5);
+t2=new TextField(5); 
+t3=new TextField(5);
 L1=new Label("enter num1"); 
 L2=new Label("enter num2"); 
 L3=new Label("Result is");
