@@ -3,8 +3,8 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*; 
-/*<applet code="task9b.class" height=200 width=200></applet>*/ public 
-class task9b extends Applet implements ActionListener
+/*<applet code="task9b.class" height=200 width=200></applet>*/ 
+public class task9b extends Applet implements ActionListener
 { 
 TextField t1,t2; 
 Label l1,l2; 
