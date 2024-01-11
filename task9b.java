@@ -22,8 +22,9 @@ add(t1);
 add(b); 
 add(l2); 
 add(t2); 
-b.addActionListener(this); } public void 
-actionPerformed(ActionEvent e) 
+b.addActionListener(this); 
+} 
+public void actionPerformed(ActionEvent e) 
 { 
 a=Integer.parseInt(t1.getText()); 
 fact=1; 
