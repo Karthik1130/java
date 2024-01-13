@@ -1,6 +1,6 @@
-import java.awt.*; import 
-javax.swing.*; import 
-java.applet.Applet; 
+import java.awt.*; 
+import javax.swing.*; 
+import java.applet.Applet; 
 import java.awt.event.*;
 public class Task11 extends Applet implements ActionListener
 {
