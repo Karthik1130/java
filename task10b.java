@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*; 
 import java.applet.*; 
 import java.applet.Applet; 
-public class Task10b extends Applet implements KeyListener 
+public class task10b extends Applet implements KeyListener 
 { 
 String msg=""; 
 public void init() 

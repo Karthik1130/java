@@ -8,6 +8,6 @@ public class Constructor {
     }
     public static void main(String[] args) {
         Constructor obj = new Constructor();
-        System.out.print(obj.name+"\n"+obj.rno);
+        System.out.print(obj.name + "\n" + obj.rno);
     }
 }
